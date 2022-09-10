@@ -1,0 +1,35 @@
+body {
+    background-color:black !important;
+    color: white !important;
+}
+
+
+a {
+    text-decoration: none !important;
+    font-size: 1.4rem !important;
+    color: white !important;
+    padding: 15px !important;
+  }
+
+.container {
+    width: 30% !important; 
+    margin-top: 150px;
+}
+
+.success {
+    background-color: green;
+    text-align: center;
+    margin: 20px auto ;
+    padding: 20px;
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: white;
+}
+
+.failed{
+    text-align: center;
+    margin: 20px auto ;
+    padding: 20px;
+    font-size: 1.3rem;
+    color: red;
+}
